@@ -11,5 +11,6 @@ php artisan key:generate
 # Применение миграций
 php artisan migrate
 
+
 # Запуск тестов
 php artisan test
